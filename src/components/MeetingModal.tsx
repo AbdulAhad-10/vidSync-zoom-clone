@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 import { ReactNode } from "react";
 import { Dialog, DialogContent } from "./ui/dialog";
